@@ -5,7 +5,7 @@
     <parent>
         <groupId>org.glassfish.ozark.ext</groupId>
         <artifactId>parent</artifactId>
-        <version>1.0.0-m02-SNAPSHOT</version>
+        <version>1.0.0-m02-TH3-SNAPSHOT</version>
     </parent>
     <artifactId>ozark-thymeleaf</artifactId>
     <packaging>jar</packaging>
@@ -14,7 +14,7 @@
         <dependency>
             <groupId>org.thymeleaf</groupId>
             <artifactId>thymeleaf</artifactId>
-            <version>2.1.4.RELEASE</version>
+            <version>3.0.0.RELEASE</version>
         </dependency>
     </dependencies>
     <properties>
